@@ -60,7 +60,7 @@ Vidya Pratishthan English Medium School – *85%*
 
 ## 🚀 Projects
 
-### 📌 [RFID Card College Attendance System](https://github.com/nikhil-mahamuni/mini-project-smart-attendance)
+### 📌 [RFID Card College Attendance System](https://github.com/nikhil-mahamuni/campus_check.git)
 A smart attendance management system using RFID and Firebase.  
 - 📶 Real-time updates with Firebase Realtime DB  
 - 🧩 Secure authentication using Firebase Auth  
